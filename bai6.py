@@ -42,5 +42,4 @@ def main():
     except ValueError:
         print("Dinh dang ngay thang khong dung.")
 
-# goi ham main
-main()10:59/-strong/-heart:>:o:-((:-hĐã gửiXem trước khi gửiThả Files vào đây để xem lại trước khi gửi
+
